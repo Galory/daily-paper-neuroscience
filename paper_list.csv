@@ -1,2 +1,2 @@
-date	key_words	title	authors	journal
-20180827	"brain,aging,lifespan"	"Largest Brain Study of 62,454 Scans Identifies Drivers of Brain Aging"	"Daniel G. Amen, MD"	Journal of Alzheimer's Disease
+date,key_words,title,authors,journal
+20180827,"brain,aging,lifespan","Largest Brain Study of 62454 Scans Identifies Drivers of Brain Aging","Daniel G. Amen MD",Journal of Alzheimer's Disease
