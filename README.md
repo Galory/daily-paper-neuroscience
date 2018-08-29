@@ -7,4 +7,4 @@ Record and share collated paper about neuroscience
 
 [2018-08-28](https://github.com/Galory/daily-paper-neuroscience/blob/master/2018/08/28.md)：**CAT——A Computational Anatomy Toolbox for SPM**
 
-[2018-08-29](https://raw.githubusercontent.com/Galory/daily-paper-neuroscience/master/2018/08/29.md)：**Cortical Thickness Estimations of FreeSurfer and the CAT12 Toolbox in Patients with Alzheimer's Disease and Healthy Controls**
+[2018-08-29](https://github.com/Galory/daily-paper-neuroscience/blob/master/2018/08/29.md)：**Cortical Thickness Estimations of FreeSurfer and the CAT12 Toolbox in Patients with Alzheimer's Disease and Healthy Controls**
