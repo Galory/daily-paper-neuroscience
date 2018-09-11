@@ -12,3 +12,5 @@ Record and share collated paper about neuroscience
 [2018-09-04](https://github.com/Galory/daily-paper-neuroscience/blob/master/2018/09/04.md)：**Optimization of statistical single subject analysis of brain FDG PET for the prognosis of mild cognitive impairment-to-Alzheimer's disease conversion**
 
 [2018-09-06](https://github.com/Galory/daily-paper-neuroscience/blob/master/2018/09/06.md)：**The Alzheimer’s Disease Neuroimaging Initiative 2 PET Core: 2015**
+
+[2018-09-11](https://github.com/Galory/daily-paper-neuroscience/blob/master/2018/09/11.md)：**Clinical, Dopaminergic, and Metabolic Correlations in Parkinson Disease**
